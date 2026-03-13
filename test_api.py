@@ -41,7 +41,7 @@ if response.status_code == 200:
     print("Saved full data to anime_data_full.json")
 
     print(f"Found {len(anime_list)} anime in the current season\n")
-    print("Here are the first 5:")
+    print("Here are the first 10:")
     print("-" * 50)
 
     for anime in anime_list[:10]:

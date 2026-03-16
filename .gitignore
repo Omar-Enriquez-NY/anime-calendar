@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Optional
+anime_data_full.json
